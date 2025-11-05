@@ -7,7 +7,7 @@ public class Demo0 {
         while(i<6){  
         // print i, and increments it    
         System.out.println(i);
-        i+=1;
+        i += 1;
         }
         System.out.println("done");
     }
